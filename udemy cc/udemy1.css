@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: rgba(0,0,0,0.212) 5px 5px 5px;
+}
+header img{
+    width: 10vw;
+    height: 10vh;
+}
+.div{
+    width: 80vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header input{
+    width: 35vw;
+    height: 7vh;
+    padding-left: 30px;
+    border-radius: 30px;
+    outline: none;
+    background-color: transparent;
+    border: 1px solid black;
+}
+.Search{
+    position: absolute;
+    margin-left: 10px;
+    color: gray;
+}
+.div2{
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: blue;
+}

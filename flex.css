@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.flexbox{
+    height: 100vh;
+display: flex;
+/* flex-direction: column; */
+/* flex-direction:column-reverse; */
+/* justify-content:center; */
+justify-content:space-between;
+align-items:center;
+ border: 2px solid blue;
+ flex-wrap: wrap ;
+background-image:url(cssimg/pexels-pixabay-38272.jpg);
+background-position: center;
+background-size: contain;
+}
+.flexbox section{
+    border: 2px solid blue;
+    padding: 70px; 
+}
+.first{
+    width: 50%;
+}

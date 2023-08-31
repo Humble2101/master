@@ -1,0 +1,116 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+main {
+  height: 100vh;
+  background: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.11)
+  );
+}
+.top {
+  background-color: white;
+  height: 10vh;
+}
+.top b{
+    font-weight: 800;
+    font-size: 20px;
+    position: relative;
+    left: 180px;
+}
+.top p{
+     position: relative;
+    left: 180px;
+}
+.middle {
+  background-color: cornflowerblue;
+  height: 70vh;
+}
+.three {
+  background-color: white;
+  height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.three b {
+  position: relative;
+  bottom: 50px;
+  left: 20%;
+}
+.three p {
+  position: relative;
+  right: 7%;
+  top: 14px;
+}
+.blue {
+  background-color: cornflowerblue;
+  height: 19vh;
+}
+.three button {
+  position: relative;
+  left: 16%;
+}
+hr {
+  color: white;
+}
+.float {
+  float: right;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+  right: 9%;
+  top: 35%;
+  color: white;
+}
+.colos {
+  border: 2px solid skyblue;
+}
+button {
+  background-color: white;
+  width: 13vw;
+  height: 5vh;
+}
+.cat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25vw;
+  color: white;
+}
+.cat div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  color: black;
+  background-color:cornflowerblue;
+  font-size: 22px;
+  font-weight: bold;
+  border: 2px solid white;
+}
+.about {
+  height: 31vh;
+  background-color: cornflowerblue;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 34px;
+}
+.first {
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.li{
+  width: 150px;
+  position: relative;
+  top: 15px;
+  border: 2px solid white;
+}

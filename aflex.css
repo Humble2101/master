@@ -1,0 +1,145 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.blue {
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  flex-wrap: wrap;
+  background-image: url(cssimg/IMG-20230817-WA0051.jpg);
+  background-position: center;
+  background-size: contain;
+}
+.blue section {
+  border: 2px solid black;
+  padding: 90px;
+  height: 10vh;
+  width: 7vw;
+  align-items: center;
+}
+.first {
+  display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  background-color: white;
+}
+.hh {
+  position: relative;
+  bottom: 11px;
+  left: 22px;
+}
+.ah {
+  position: relative;
+  bottom: 11px;
+  left: 28px;
+}
+.rr {
+  width: 10px;
+  height: 10px;
+}
+div {
+  position: relative;
+  top: 107px;
+  right: 150px;
+  text-align: center;
+}
+.image {
+  display: flex;
+  justify-content: center;
+  height: 73px;
+  position: relative;
+  top: -75px;
+  left: 0px;
+}
+.black {
+  display: flex;
+  justify-content: center;
+  height: 71px;
+  position: relative;
+  top: -76px;
+  left: -8px;
+}
+.funmi {
+     display: flex;
+    justify-content: center;
+    height: 71px;
+    position: relative;
+    top: -76px;
+    left: -4px;
+    
+}
+.otilo{
+     display: flex;
+    justify-content: center;
+    height: 73px;
+    width: 90%;
+    position: relative;
+    top: -75px;
+    left: 0px;
+    
+}
+.second{
+    display: flex;
+    background-size: cover;
+  justify-content: center;
+  background-position: center;
+  background-color: white;
+  
+}
+.seconder{
+    position: relative;
+    left: 169px;
+    bottom: 133px;
+}
+.third{
+    background-color: white;
+      display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+.thirder{
+     position: relative;
+    left: 162px;
+    bottom: 133px;
+}
+.fourth{
+    background-color: white;
+      display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+.fourther{
+     position: relative;
+    left: 168px;
+    bottom: 133px;
+}
+.fifth{
+    background-color: white;
+      display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+.fifter{
+     position: relative;
+    left:165px;
+    bottom: 138px;
+}
+.sixth{
+    background-color: white;
+      display: flex;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+}
+.sixter{
+     position: relative;
+    left: 169px;
+    bottom: 138px;
+}
